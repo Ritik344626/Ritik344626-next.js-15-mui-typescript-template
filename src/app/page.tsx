@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import styles from './page.module.css';
-import { Box } from '@mui/material';
 import FileIcon from '@assets/file.svg';
+import { Box } from '@mui/material';
 
 export default function Home() {
   return (
